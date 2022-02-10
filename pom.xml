@@ -23,7 +23,7 @@
 		<flyway-core.version>6.3.3</flyway-core.version>
 		<spring-tx.version>5.1.2.RELEASE</spring-tx.version>
 		<spring-jdbc.version>5.2.5.RELEASE</spring-jdbc.version>
-		<hibernate-core.version>5.4.14.Final</hibernate-core.version>
+		<hibernate-core.version>5.4.24.Final</hibernate-core.version>
 		<sqlite.version>3.30.1</sqlite.version>
 		<swagger.version>2.9.2</swagger.version>
 		<lombook>1.18.12</lombook>
